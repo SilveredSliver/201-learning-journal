@@ -1,0 +1,4 @@
+# Learning-journal-day-11
+
+Day-11 seemed rather overwhelming, and I was correct in thinking so, haha.
+On top of that, I ate something bad and got stomach sickness for like 19 hours. The worst possible month to get sick on so far is when you're in a coding boot camp, or any time you have big commitments in a short time window of a day. Worked my butt off just trying to catch up on the starter busmall project. Hopefully it won't be too much trouble but I think I got the basic structure down at least. Other than the stomach issue, the rabbit is finally out of my bathroom and no longer hiding in that tiny hole underneath the toilet. That's the last time I put a bunny in the sink before class, next time it'll be the shower with a closed door. Looking forward to today though, provided I don't eat anything horrible again, going to have to take it easy there.
