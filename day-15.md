@@ -1,0 +1,3 @@
+# Learning-journal-day-15
+
+Well, I can't believe it's already the end of week 3 and we'll be creating a project for ...well, project week in a matter of days. We are doing a sort of "choose your own adventure" kind of game and I have to say, now that I've had more time to think about it, even though I came up with the idea, I'm' getting more excited about exactly how I could  help make this idea big and flashy, but I don't want to think too big or else I might be biting off more than I can chew. I've already started making up various story scenarios that I plan to run by the rest of the work team on Monday. I and hoping it'll help give us some headway so we can get right down to coding the V.M.P.
