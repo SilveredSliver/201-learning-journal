@@ -1,0 +1,3 @@
+# Learning-journal-day-16
+
+Today we got together in our project group and attempted to decide how to work out our work flow. There were, indeed, complications, but at the end of it, we were moderately successful in attaining enlightenment over what each of us had to accomplish and what adjustments we had to make in order to work together in a complimentary and wholesome way. I feel like Monday was a really good day in terms of us simply getting to know everyone else's preferences, distances, obligations, personal abilities and confidences in said abilities relating to coding and the general project. We also narrowed down our idea project and have since refined it on Tuesday (I am writing this one Tuesday even though it's talking about Monday).
